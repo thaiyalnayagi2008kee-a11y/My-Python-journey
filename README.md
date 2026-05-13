@@ -13,7 +13,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| Calculator | Simple Python calculator | 🟡 Coming Soon |
+| Calculator | Simple Python calculator |✅ calculator completed |
 | Hello World | First Python code | ✅ Completed |
 
 ## 🛠️ Tools
