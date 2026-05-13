@@ -1,7 +1,6 @@
 # 🐍 My Python Journey
 
 > Self-taught Python & AI developer from Tamil Nadu, India.
-> "Na panuven da!" 🔥
 
 ## 📚 Current Learning
 
